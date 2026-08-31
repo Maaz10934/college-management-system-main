@@ -4,3 +4,5 @@ Version 1.1 includes:
 -Course management
 -Academic record management
 -Attendance management
+- Online fee management
+- Academic record management
